@@ -31,9 +31,6 @@ A landing page to improve css skill. All the elements are placed using position 
 | Black | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
 | White | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
 
-\
-\
-
 ![break line](https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif)
 
 # Hi, I'm Subrata! 👋

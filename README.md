@@ -28,7 +28,7 @@ A landing page to improve css skill. All the elements are placed using position 
 
 | Color | Hex                                                              |
 | ----- | ---------------------------------------------------------------- |
-| Black | ![#OOOOOO](https://via.placeholder.com/10/000000?text=+) #000000 |
+| Black | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
 | White | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
 
 \
